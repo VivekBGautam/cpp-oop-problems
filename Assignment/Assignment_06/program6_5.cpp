@@ -1,4 +1,4 @@
-// Write A program which Accept the Total mark and Obtain mark And calcute percentage
+// Write A program which Accept the Total mark and Obtain mark And calcute percentage 
 
 ////////////////////////////////////////////////////////////////////////
 //
