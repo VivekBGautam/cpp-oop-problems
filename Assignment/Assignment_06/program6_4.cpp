@@ -1,4 +1,4 @@
-// Write A program which Accept the number from user and Perform its Multiplication 
+// Write A program which Accept the number from user and Perform its Multiplication
 
 ////////////////////////////////////////////////////////////////////////
 //
