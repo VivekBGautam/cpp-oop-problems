@@ -1,4 +1,4 @@
-// Write A program which Accept the number from user and acheck wether that number is greater than 100 or Not 
+// Write A program which Accept the number from user and acheck wether that number is greater than 100 or Not
 
 ////////////////////////////////////////////////////////////////////////
 //
