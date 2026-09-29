@@ -1,4 +1,4 @@
-// Write A Program which Accept Name from user and print that name
+// Write A Program which Accept Name from user and print that name 
 
 ////////////////////////////////////////////////////////////////////////
 //
